@@ -12,4 +12,7 @@ let callGreet=greet('Jobayer')
 
 console.log(callGreet);
 
-const composition=(...fns)=>
+const adding=()
+
+const composition=(...fns)=> console.log(fns);
+
